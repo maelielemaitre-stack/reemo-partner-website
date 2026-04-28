@@ -28,3 +28,34 @@ Action : Remplacez le href="#" par votre lien URL de destination. Le bouton "Voi
 
 ---
 Reemo — Accédez à vos applications professionnelles sans compromettre la sécurité.
+
+# Reemo Showcase Kit for Partners
+
+Welcome to the Reemo Showcase Kit repository. This kit is designed to help you integrate a dedicated Reemo section into your website in just a few minutes.
+
+## Kit Content
+- index.html: Contains the structure, styles (CSS), and animations (Carousel).
+- Content: Marketing copy validated for security, performance, and sovereignty.
+- Assets: Client logos and icons integrated directly in SVG/Base64 for easy integration.
+
+## Integration Instructions
+
+To set up your showcase page, follow these steps:
+
+### 1. Customize your contact links (CTA)
+The code contains 2 call-to-action buttons that you must configure to point to your own contact form or page. In the index.html file, locate and modify the following tags:
+
+* Hero CTA (Contact):
+    <a href="#" class="r-btn-secondary">Contact us</a>
+    
+* Bottom Page CTA:
+    <a href="#" class="r-btn-white">Contact an expert</a>
+
+Action: Replace href="#" with your destination URL link. The "Watch Demo" button is already configured by default.
+
+### 2. Website Integration
+* Option A (Iframe): Host the file and call it via an iframe.
+* Option B (Copy-Paste): Copy the content located between the <body> tags and insert it into your CMS. Do not forget to also include the <style> block and the Google Fonts links located in the <head>.
+
+---
+Reemo — Access your professional applications without compromising security.
