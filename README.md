@@ -7,6 +7,10 @@ Bienvenue sur le dépôt du Kit Vitrine Reemo. Ce kit est conçu pour vous perme
 - Contenus : Textes marketing validés sur la sécurité, performance et souveraineté.
 - Assets : Logos clients et icônes intégrés directement en SVG/Base64 pour faciliter l'intégration.
 
+## Visualisation du contenu
+- Version française : https://maelielemaitre-stack.github.io/reemo-partner-website/frenchversion.html
+- Version anglaise : https://maelielemaitre-stack.github.io/reemo-partner-website/englishversion.html
+
 ## Instructions d'intégration
 
 Pour mettre en ligne votre vitrine, suivez ces étapes :
